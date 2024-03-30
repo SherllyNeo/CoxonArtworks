@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sherllyneo.github.io/CoxonArtworks/static/css/main.b90475cc.css",
-    "main.js": "/sherllyneo.github.io/CoxonArtworks/static/js/main.3d6f8c36.js",
-    "static/media/aboutBackground.jpg": "/sherllyneo.github.io/CoxonArtworks/static/media/aboutBackground.662aff11cdd5bbe6df61.jpg",
-    "static/media/abstract1.jpeg": "/sherllyneo.github.io/CoxonArtworks/static/media/abstract1.b083e58bffe5f9267642.jpeg",
-    "index.html": "/sherllyneo.github.io/CoxonArtworks/index.html",
-    "main.b90475cc.css.map": "/sherllyneo.github.io/CoxonArtworks/static/css/main.b90475cc.css.map",
-    "main.3d6f8c36.js.map": "/sherllyneo.github.io/CoxonArtworks/static/js/main.3d6f8c36.js.map"
+    "main.css": "/CoxonArtworks/static/css/main.3e5ce970.css",
+    "main.js": "/CoxonArtworks/static/js/main.3d6f8c36.js",
+    "static/media/aboutBackground.jpg": "/CoxonArtworks/static/media/aboutBackground.662aff11cdd5bbe6df61.jpg",
+    "static/media/abstract1.jpeg": "/CoxonArtworks/static/media/abstract1.b083e58bffe5f9267642.jpeg",
+    "index.html": "/CoxonArtworks/index.html",
+    "main.3e5ce970.css.map": "/CoxonArtworks/static/css/main.3e5ce970.css.map",
+    "main.3d6f8c36.js.map": "/CoxonArtworks/static/js/main.3d6f8c36.js.map"
   },
   "entrypoints": [
-    "static/css/main.b90475cc.css",
+    "static/css/main.3e5ce970.css",
     "static/js/main.3d6f8c36.js"
   ]
 }
