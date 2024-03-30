@@ -13,14 +13,14 @@ import './App.css';
 function App() {
   return (
       <>
-      <Router basename={"https://sherllyneo.github.io/CoxonArtworks/"}>
+      <Router>
         <Navbar/>
         <Routes>
-            <Route path='/' exact element={<Home />} /> 
-            <Route path='/about' exact element={<About />} /> 
-            <Route path='/contact' exact element={<Contact />} /> 
-            <Route path='/gallery' exact element={<Gallery />} /> 
-            <Route path='/gallery/skeleton' exact element={<Gallery_Skeleton />} /> 
+            <Route path='/CoxonArtworks' exact element={<Home />} /> 
+            <Route path='/CoxonArtworks/about' exact element={<About />} /> 
+            <Route path='/CoxonArtworks/contact' exact element={<Contact />} /> 
+            <Route path='/CoxonArtworks/gallery' exact element={<Gallery />} /> 
+            <Route path='/CoxonArtworks/gallery/skeleton' exact element={<Gallery_Skeleton />} /> 
         </Routes>
       </Router>
       </>
