@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoxonArtworks/static/css/main.f03b5ba5.css",
-    "main.js": "/CoxonArtworks/static/js/main.6a8e150c.js",
+    "main.js": "/CoxonArtworks/static/js/main.ac6f1b43.js",
     "index.html": "/CoxonArtworks/index.html",
     "main.f03b5ba5.css.map": "/CoxonArtworks/static/css/main.f03b5ba5.css.map",
-    "main.6a8e150c.js.map": "/CoxonArtworks/static/js/main.6a8e150c.js.map"
+    "main.ac6f1b43.js.map": "/CoxonArtworks/static/js/main.ac6f1b43.js.map"
   },
   "entrypoints": [
     "static/css/main.f03b5ba5.css",
-    "static/js/main.6a8e150c.js"
+    "static/js/main.ac6f1b43.js"
   ]
 }
