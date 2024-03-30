@@ -19,7 +19,7 @@ body {background-color: #A9A9A9}
 }
 
 .gallery {
-  background-image: url('../public/images/abstract1.jpeg');
+  background-image: url('images/abstract1.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {background-color: #A9A9A9}
 }
 
 .about {
-  background-image: url('../public/images/aboutBackground.jpg');
+  background-image: url('images/aboutBackground.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
