@@ -13,12 +13,10 @@ video {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
   object-fit: contain;
 }
 
 .float-container {
-    border: 3px solid #fff;
     padding: 20px;
 }
 
@@ -26,7 +24,6 @@ video {
     width: 50%;
     float: left;
     padding: 20px;
-    border: 2px solid red;
 }
 
 .about-container > h1 {
