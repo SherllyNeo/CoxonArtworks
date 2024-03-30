@@ -10,7 +10,7 @@ function About() {
             <h1 style={{fontSize: 100, padding: 50}}> Elizabeth Coxon </h1>
 
             <div align="right" style={{marginRight: 450 }}>
-            <img src="/images/headshot.jpg" alt="headshot" height="200" width="200" />
+            <img src="images/headshot.jpg" alt="headshot" height="200" width="200" />
             </div>
 
             <div align="left">
