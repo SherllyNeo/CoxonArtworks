@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31a2d79e.css",
+    "main.js": "/static/js/main.c8f100ce.js",
+    "static/media/abstract1.jpeg": "/static/media/abstract1.b083e58bffe5f9267642.jpeg",
+    "static/media/abstract2.jpeg": "/static/media/abstract2.612a1ca688f1e064ab66.jpeg",
+    "static/media/flower.jpeg": "/static/media/flower.341a5d85574f92aeb95c.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.31a2d79e.css.map": "/static/css/main.31a2d79e.css.map",
+    "main.c8f100ce.js.map": "/static/js/main.c8f100ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a2d79e.css",
+    "static/js/main.c8f100ce.js"
+  ]
+}
