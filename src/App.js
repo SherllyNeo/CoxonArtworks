@@ -13,7 +13,7 @@ import './App.css';
 function App() {
   return (
       <>
-      <Router>
+      <Router basename={"https://sherllyneo.github.io/CoxonArtworks/"}>
         <Navbar/>
         <Routes>
             <Route path='/' exact element={<Home />} /> 
