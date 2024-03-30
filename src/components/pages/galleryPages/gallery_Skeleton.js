@@ -5,7 +5,7 @@ function Gallery_Skeleton() {
     return (
         <>
         <h1> Skeleton Artwork </h1>
-        <img src={'images/skeleton.jpeg'} alt="image not found" width="500" height="700" class="center"/>
+        <img src='https://raw.githubusercontent.com/SherllyNeo/CoxonArtworks/main/public/images/skeleton.jpeg' alt="image not found" width="500" height="700" class="center"/>
         <p> This art work is about blah blah </p>
         </>
     )

@@ -13,10 +13,10 @@ import './App.css';
 function App() {
   return (
       <>
-      <Router basename="/CoxonArtworks">
+      <Router>
         <Navbar/>
         <Routes>
-            <Route path='/CoxonArtworks' exact element={<Home />} /> 
+            <Route path='/' exact element={<Home />} /> 
             <Route path='/about' exact element={<About />} /> 
             <Route path='/contact' exact element={<Contact />} /> 
             <Route path='/gallery' exact element={<Gallery />} /> 

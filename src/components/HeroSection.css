@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-  background: url('../../public/images/abstract1.jpeg') center center/cover no-repeat; 
+  background: url('https://raw.githubusercontent.com/SherllyNeo/CoxonArtworks/main/public/images/abstract1.jpeg') center center/cover no-repeat; 
   height: 100vh;
   width: 100%;
   display: flex;
