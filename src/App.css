@@ -28,7 +28,7 @@ body {background-color: #A9A9A9}
 }
 
 .about {
-  background-image: url('../public/images/flower.jpeg');
+  background-image: url('../public/images/aboutBackground.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@ body {background-color: #A9A9A9}
 }
 
 .contact {
-  background-image: url('../public/images/abstract2.jpeg');
+  /*background-image: url('../public/images/contactBackground.jpg');*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

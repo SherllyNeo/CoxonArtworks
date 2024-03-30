@@ -21,12 +21,42 @@ function Cards() {
               label='Muscular anatomy'
               path='/gallery'
             />
+            <CardItem
+              src='images/muscle.jpeg'
+              text='Anatomy practice of the muscles'
+              label='Muscular anatomy'
+              path='/gallery'
+            />
+            <CardItem
+              src='images/muscle.jpeg'
+              text='Anatomy practice of the muscles'
+              label='Muscular anatomy'
+              path='/gallery'
+            />
           </ul>
           <ul className='cards__items'>
             <CardItem
               src='images/cannibal.jpeg'
               text='Floating ody'
               label='The floating body'
+              path='/gallery'
+            />
+            <CardItem
+              src='images/baroque.jpeg'
+              text='Very good style'
+              label='Baroque art'
+              path='/gallery'
+            />
+            <CardItem
+              src='images/baroque.jpeg'
+              text='Very good style'
+              label='Baroque art'
+              path='/gallery'
+            />
+            <CardItem
+              src='images/baroque.jpeg'
+              text='Very good style'
+              label='Baroque art'
               path='/gallery'
             />
             <CardItem
