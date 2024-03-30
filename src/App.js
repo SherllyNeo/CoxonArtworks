@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar.js';
 import Home from './components/pages/Home.js'
@@ -18,10 +17,10 @@ function App() {
         <Navbar/>
         <Routes>
             <Route path='/CoxonArtworks' exact element={<Home />} /> 
-            <Route path='/CoxonArtworks/about' exact element={<About />} /> 
-            <Route path='/CoxonArtworks/contact' exact element={<Contact />} /> 
-            <Route path='/CoxonArtworks/gallery' exact element={<Gallery />} /> 
-            <Route path='/CoxonArtworks/gallery/skeleton' exact element={<Gallery_Skeleton />} /> 
+            <Route path='/about' exact element={<About />} /> 
+            <Route path='/contact' exact element={<Contact />} /> 
+            <Route path='/gallery' exact element={<Gallery />} /> 
+            <Route path='/gallery/skeleton' exact element={<Gallery_Skeleton />} /> 
         </Routes>
       </Router>
       </>
