@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import '../../App.css';
+import './Contact.css'
 
 
-const emailEmoji = <div className='contact'> <p style={{fontSize: 50, padding: 50}}> Email: <i class="fa fa-envelope"></i> </p> </div>;
-const emailText = <div className='contact'> <p style={{fontSize: 50, padding: 50}}> Email: Elizabeth.Coxon@CoxonArtworks.com </p> </div>;
+const emailEmoji = <p className='contactDetail'> Email: <i class="fa fa-envelope"></i> </p>
+const emailText = <p className='contactDetail'> Email: Elizabeth.Coxon@CoxonArtworks.com </p> 
 
-const instaEmoji = <div className='contact'> <p style={{fontSize: 50, padding: 50}}> Instagram: <i class="fa-brands fa-instagram"></i> </p> </div>;
-const instaText =  <div className='contact'> <p style={{fontSize: 50, padding: 50}}> Instagram: elizabeth.coxon </p> </div>;
+const instaEmoji =  <p className='contactDetail'> Instagram: <i class="fa-brands fa-instagram"></i> </p>
+const instaText =   <p className='contactDetail'> Instagram: elizabeth.coxon </p>
 
 function Contact() {
 
@@ -17,12 +17,12 @@ function Contact() {
     const changeInstaText = () => setButtonInstaText(instaText)
 
     return (
-        <>
         <div className='contact'>
+        <div className='contact-box'>
             <button onClick={changeEmailText}>{buttonEmailText}</button> 
             <button onClick={changeInstaText}>{buttonInstaText}</button> 
         </div>
-        </>
+        </div>
     )
 }
 
