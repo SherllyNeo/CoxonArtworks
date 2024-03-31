@@ -26,13 +26,6 @@ body {background-color: #A9A9A9}
   font-size: 100px;
 }
 
-.about {
-  background-position: center;
-  background-size: fill;
-  background-repeat: repeat;
-  color: #242424;
-  font-size: 100px;
-}
 
 .contact {
   background-image: url('https://raw.githubusercontent.com/SherllyNeo/CoxonArtworks/main/public/images/contactBackground.jpg');
