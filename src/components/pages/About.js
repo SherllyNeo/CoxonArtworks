@@ -14,7 +14,7 @@ function About() {
 
                 <div class="float-child">
                     <div align="right" style={{marginRight: 450 }}>
-                    <img src="images/aboutMe.jpeg" alt="headshot" height="550" width="500" />
+                    <img src="images/aboutMe.jpeg" alt="headshot" height="600" width="600" />
                 </div>
                 </div>
 
