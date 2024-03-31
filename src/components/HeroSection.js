@@ -7,14 +7,11 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-        <h1> Cool art here </h1>
-        <p> Buy my shit </p>
+        <h1> Elizabeth Coxon </h1>
+        <p> Explore her recent work  </p>
         <div className="hero-btns">
             <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                Explore art!
-            </Button>
-            <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                WATCH ART 
+                Latest projects
             </Button>
         </div>
 

@@ -77,7 +77,7 @@ function Cards() {
               path='/gallery/handprintpink'
             />
             <CardItem
-              src='images/handPrint2.jpeg'
+              src='images/handPrint3.jpeg'
               text='Hand print'
               label='Hand Yellow - 2024'
               path='/gallery/handprintyellow'

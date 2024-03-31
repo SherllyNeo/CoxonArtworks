@@ -6,13 +6,16 @@ const STYLES = ['btn--primary','btn--outline'];
 
 const SIZES = ['btn--medium','btn--large'];
 
+const DESTINATIONS = ['/gallery','/about','/home','/contact'];
 
-const Button = ({children, type, onClick, buttonStyle, buttonSize}) => {
+
+const Button = ({children, type, onClick, buttonStyle, buttonSize, buttonTo}) => {
     const checkButtonStyle = STYLES.includes(buttonStyle) ? buttonStyle : STYLES[0];
     const checkButtonSize = SIZES.includes(buttonStyle) ? buttonStyle : SIZES[0];
+    const checkButtonTo = DESTINATIONS.includes(buttonTo) ? buttonTo : DESTINATIONS[0];
 
     return (
-        <Link to='/contact' className='btn-mobile'>
+        <Link to={`${checkButtonTo}`} className='btn-mobile'>
             <button 
             className={`btn ${checkButtonStyle} ${checkButtonSize}`}
             onClick={onClick}
