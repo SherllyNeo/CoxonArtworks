@@ -3,10 +3,10 @@ import './Contact.css'
 
 
 const emailEmoji = <p className='contactDetail'> Email: <i class="fa fa-envelope"></i> </p>
-const emailText = <p className='contactDetail'> Email: Elizabeth.Coxon@CoxonArtworks.com </p> 
+const emailText = <p className='contactDetail'> Email: lizzy@CoxonArtworks.com </p> 
 
 const instaEmoji =  <p className='contactDetail'> Instagram: <i class="fa-brands fa-instagram"></i> </p>
-const instaText =   <p className='contactDetail'> Instagram: elizabeth.coxon </p>
+const instaText =   <p className='contactDetail'> Instagram: Coxon_Artworks </p>
 
 function Contact() {
 
