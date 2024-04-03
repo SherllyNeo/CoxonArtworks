@@ -4,8 +4,8 @@ import './About.css';
 
 function About() {
     return (
-        <>
-        <div class="column-2">
+        <div class="container">
+        <div class="column">
             <h1>About Lizzy</h1>
 <p>            The upcoming artist Elizabeth Coxon, who was born in England in 2002, is a promising young artist who explores a variety of mediums and techniques in her work. </p>
 <p>            Her work includes printmaking, painting, drawing and other techniques. </p>
@@ -15,14 +15,14 @@ function About() {
 <p>            The usual ideas of the industry are challenged by her art, via investigating novel uses of colour, expression and ideas. </p>
 <p>            She is always looking for new ways to combine traditional techniques with modern elements in her artwork, and she actively seeks out new ways expand her creative endevours. </p>
         </div>
-        <div class="column-2 large-profile">
+        <div class="column large-profile">
         <img 
           alt="Elizbeth Coxon" 
           src='https://raw.githubusercontent.com/SherllyNeo/CoxonArtworks/main/public/images/aboutMe.jpeg'
-          style={{ height: "auto",width: "auto",maxHeight: "200%" , paddingRight: "10px" }} 
+          style={{ height: "100%",width: "100%", paddingRight: "20px" }} 
         />
         </div>
-        </>
+        </div>
     )
 }
 
