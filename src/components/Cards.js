@@ -162,13 +162,13 @@ function Cards() {
               src='images/experiment1.jpeg'
               text='How it feels to be seen'
               label='Experiment 1 - 2021'
-              path='/gallery/experientone'
+              path='/gallery/experimentone'
             />
             <CardItem
               src='images/experiment2.jpeg'
               text='How it feels to be seen'
               label='Experiment 2 - 2021'
-              path='/gallery/experienttwo'
+              path='/gallery/experimenttwo'
             />
           </ul>
 
