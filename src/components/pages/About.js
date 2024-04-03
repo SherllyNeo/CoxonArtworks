@@ -19,7 +19,7 @@ function About() {
         <img 
           alt="Elizbeth Coxon" 
           src='https://raw.githubusercontent.com/SherllyNeo/CoxonArtworks/main/public/images/aboutMe.jpeg'
-          style={{ height: "200%", paddingRight: "10px" }} 
+          style={{ height: "auto",width: "auto",maxHeight: "200%" , paddingRight: "10px" }} 
         />
         </div>
         </>
